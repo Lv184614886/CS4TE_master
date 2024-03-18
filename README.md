@@ -32,5 +32,5 @@
     ```
     The extracted results will be save in `result/WebNLG`.
    
-## thank
+## Thank
 https://github.com/ssnvxia/OneRel
