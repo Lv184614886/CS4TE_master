@@ -18,12 +18,11 @@
 
 3. **Train the model (take WebNLG as an example)**
 
-    Modify the second dim of `batch_triple_matrix` in `data_loader.py` to the number of relations, and run
-
+    run
     ```shell
-    python train.py --train --dataset=WebNLG --batch_size=8 
+    python train.py --train
     ```
-    The model weights with best performance on dev dataset will be stored in `checkpoint/WebNLG/`
+    The model weights with the best performance on dev dataset will be stored in `checkpoint/WebNLG/`
 
 4. **Evaluate on the test set (take WebNLG as an example)**
 
@@ -31,7 +30,6 @@
     ```shell
     python test.py
     ```
-
     The extracted results will be save in `result/WebNLG`.
    
 ## thank
