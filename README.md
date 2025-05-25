@@ -1,5 +1,6 @@
 # CS4TE_master
  CS4TE: A Novel Coded Self-Attention and Semantic Synergy Network for Triple Extraction
+ https://doi.org/10.1016/j.neucom.2025.130034
 
 ## Usage
 
